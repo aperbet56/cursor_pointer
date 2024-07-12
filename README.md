@@ -6,7 +6,7 @@ Création d'un curseur de souris.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/cursor_pointer/
 
 ## Développez avec
 
