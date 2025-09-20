@@ -1,5 +1,7 @@
 ## CURSEUR POINTEUR (CURSOR POINTER)
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un curseur de souris.
@@ -8,7 +10,7 @@ Création d'un curseur de souris.
 
 Lien vers le projet : https://aperbet56.github.io/cursor_pointer/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
